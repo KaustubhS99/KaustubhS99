@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaustubhS99
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning 𝐂 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞
 - 📫 How to reach me kaustubhs100@gmail.com
 
 <!---
